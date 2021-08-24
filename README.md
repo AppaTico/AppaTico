@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Davi</h1>
-<h3 align="center">A Computer Science student at Uberlandia's Federal University</h3>
+<h1 align="center">Hi, I'm Appa</h1>
+<h3 align="center">A Computer Science student at Uberlandia's Federal University (UFU)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appatico&label=Profile%20views&color=0e75b6&style=flat" alt="appatico" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dvpsqn" target="blank"><img src="https://img.shields.io/twitter/follow/dvpsqn?logo=twitter&style=for-the-badge" alt="dvpsqn" /></a> </p>
 
-- 🌱 I’m currently learning **C#, Unity Game Development**
+-I’m currently learning **C#, Unity Game Development**
 
-- 📫 How to reach me **davipasquini12@gmail.com**
-
-- ⚡ Fun fact **I have no idea what I'm doing**
+- Reach me at: **davipasquini12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
