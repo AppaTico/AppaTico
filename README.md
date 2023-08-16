@@ -12,10 +12,3 @@
 <a href="https://instagram.com/davipasquini12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davipasquini12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/davipasquini12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davipasquini12" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=appatico&show_icons=true&locale=en&layout=compact" alt="appatico" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=appatico&show_icons=true&locale=en" alt="appatico" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=appatico&theme=default" alt="appatico" /></p>
